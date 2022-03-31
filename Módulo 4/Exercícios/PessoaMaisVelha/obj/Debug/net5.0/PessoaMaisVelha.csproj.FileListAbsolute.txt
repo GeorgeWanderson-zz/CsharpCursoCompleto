@@ -1,0 +1,16 @@
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.exe
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.deps.json
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.runtimeconfig.json
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.runtimeconfig.dev.json
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.dll
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\ref\PessoaMaisVelha.dll
+C:\Users\geowa\Desktop\PessoaMaisVelha\bin\Debug\net5.0\PessoaMaisVelha.pdb
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.dll
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\ref\PessoaMaisVelha.dll
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.pdb
+C:\Users\geowa\Desktop\PessoaMaisVelha\obj\Debug\net5.0\PessoaMaisVelha.genruntimeconfig.cache

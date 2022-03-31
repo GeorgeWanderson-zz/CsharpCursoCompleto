@@ -1,0 +1,16 @@
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.exe
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.deps.json
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.runtimeconfig.json
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.runtimeconfig.dev.json
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.dll
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\ref\CadastroDeProdutos.dll
+C:\Users\geowa\Desktop\CadastroDeProdutos\bin\Debug\net5.0\CadastroDeProdutos.pdb
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.csproj.AssemblyReference.cache
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.AssemblyInfoInputs.cache
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.AssemblyInfo.cs
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.dll
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\ref\CadastroDeProdutos.dll
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.pdb
+C:\Users\geowa\Desktop\CadastroDeProdutos\obj\Debug\net5.0\CadastroDeProdutos.genruntimeconfig.cache

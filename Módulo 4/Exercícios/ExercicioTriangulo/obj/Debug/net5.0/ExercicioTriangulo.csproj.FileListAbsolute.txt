@@ -1,0 +1,16 @@
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.exe
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.deps.json
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.json
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.dev.json
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.dll
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ref\ExercicioTriangulo.dll
+C:\Users\geowa\Desktop\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.pdb
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfo.cs
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.dll
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ref\ExercicioTriangulo.dll
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.pdb
+C:\Users\geowa\Desktop\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.genruntimeconfig.cache
